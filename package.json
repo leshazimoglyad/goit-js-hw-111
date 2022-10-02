@@ -30,7 +30,7 @@
     "axios": "^0.24.0",
     "lodash.throttle": "^4.1.1",
     "notiflix": "^3.2.5",
-    "simplelightbox": "^2.10.1",
+    "simplelightbox": "^2.10.3",
     "throttle": "^1.0.3"
   }
 }
